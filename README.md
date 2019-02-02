@@ -1,2 +1,2 @@
 # SimpleWordCounter
-Simple word counter plugin that displays the number of words in a selection in the bottom toolbar.
+A simple word counter plugin for Sublime Text 3 that displays the number of words in a selection in the status bar.
